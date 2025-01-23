@@ -1,5 +1,6 @@
 # OpenPark
-![enter image description here](https://hackers.ioarvanit.gr/wp-content/uploads/2025/01/%CE%86%CF%84%CE%B9%CF%84%CE%BB%CE%BF.png)
+(https://hackers.ioarvanit.gr/wp-content/uploads/2025/01/%CE%86%CF%84%CE%B9%CF%84%CE%BB%CE%BF.png)
+
 Μαθητές και μαθήτριες της Δ, Ε και ΣΤ τάξης του Πειραματικού Δημοτικού Σχολείου Φλώρινας σχεδιάζουν ένα ανοιχτό πάρκο για όλους τους πολίτες με ελεύθερους χώρους και παιχνίδια σε παιδικές χαρές τα οποία γίνονται πιο διασκεδαστικά με την χρήση της τεχνολογίας.
 
 Πιο συγκεκριμένα σχεδιάζουμε:
